@@ -5,3 +5,5 @@ Create a build by running:
 ```
 python setup.py py2app -A
 ```
+
+https://py2app.readthedocs.io/en/latest/tutorial.html#create-a-setup-py-file
