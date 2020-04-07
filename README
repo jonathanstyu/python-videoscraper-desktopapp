@@ -1,0 +1,7 @@
+This is finally the app that I am looking for. The MJPEG desktop app. 
+
+Create a build by running: 
+
+```
+python setup.py py2app -A
+```
